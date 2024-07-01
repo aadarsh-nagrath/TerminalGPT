@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+  }
+  .terminal {
+    height: 100vh;
+    overflow: hidden;
+  }
