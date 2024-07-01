@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Terminal GPT
 
-## Getting Started
+Command Line Interface (CLI) in Browser to interact with Language Models using an API key.
+![image](https://github.com/aadarsh-nagrath/TerminalGPT/assets/92307537/b09c4265-f154-4c11-9a3f-6d23fe9d9a06)
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Command Execution**: Execute custom commands in the browser terminal.
+- **Color Customization**: Customize prompt and output colors.
+- **Help Commands**: Built-in help for available commands.
+- **Persistent Username**: Set a username for personalized prompt.
+- **External Scripts**: Load external scripts for extended functionalities.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Access
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+[Click here](https://terminalgpt.vercel.app)
+And Press "F5" to start
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation
 
-## Learn More
+1. Clone the repository:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   git clone https://github.com/yourusername/terminal-gpt.git
+   cd terminal-gpt
+   ```
+2. Install dependencies if any
+   ```
+   npm i
+   ```
+3. Start it ->
+   ```
+   npm start or run dev
+   ```
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
